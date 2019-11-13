@@ -8,7 +8,7 @@ Tapşırıq.
     https://whatis.techtarget.com/definition/algorithm     
     https://techterms.com/definition/algorithm    
     
-2. Drav.io - da aşağıdakı məsələlərin algorithmini qurmaq:
+2. Draw.io - da aşağıdakı məsələlərin algorithmini qurmaq:
     
     Ədədin mərtəbələrinin(neçə rəqədən ibarət olması) sayını tapmaq;     
     Ədədin 3-ə və 4-ə bölənlərinin sayını tapmaq;     
