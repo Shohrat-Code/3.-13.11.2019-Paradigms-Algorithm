@@ -1,4 +1,4 @@
-# 3.-13.11.2019-Paradigms-Algorithm
+# 3.13.11.2019-Paradigms-Algorithm
 
 Tapşırıq.
 1. Aşağıdakı linkləri oxumaq:
